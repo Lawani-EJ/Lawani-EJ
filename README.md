@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-github-header-image.png
+https://github.com/Lawani-EJ/Lawani-EJ/blob/main/github-header-image.png?raw=true
 
 Im John Elyon, a Full Stack Web Developer 💻.
 I'm passionate about using *codes* to solve *real life* problems; thereby creating a sustainable world for all.
