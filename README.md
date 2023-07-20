@@ -2,9 +2,9 @@
 
 ![github-header-image](https://github.com/Lawani-EJ/Lawani-EJ/assets/104038966/48aca1e0-5d98-436f-b350-e6e97d23e099)
 
-Im John Elyon, a Full Stack Web Developer 💻.
-I'm passionate about using *codes* to solve *real life* problems; thereby creating a sustainable world for all.
-It's been a year,working as web developer.i have developed many website and also provided my services to college students by getting their projects ready ASAP as a freelancer I have been part of some very good web design projects
+Im John Elyon, a junior frontend Web Developer 💻.
+As a Junior Frontend Developer, Im excited to contribute my talents to a dynamic and forward-thinking team, where I can learn from experienced developers and grow both personally and professionally. My drive to learn, adapt, and innovate makes me a promising addition to any development team, and I am eager to take on new challenges and contribute to the ever-changing landscape of frontend development.
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lawani-EJ&show=reviews)
 
