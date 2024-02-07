@@ -9,7 +9,7 @@ As a Junior Frontend Developer, Im excited to contribute my talents to a dynamic
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lawani-EJ&layout=compact)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lawani-EJ&repo=github-readme-stats)](https://github.com/Lawani-EJ/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lawani-EJ&repo=github-readme-stats)](https://github.com/Lawani-EJ/Logical-Operations-Homepage)
 
 ## SKILLS AND EXPERIENCE
 *💻HTML, CSS, JS
