@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="center" alt="coding" width="900" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
+<img align="center" alt="coding" width="900" height="200" src="https://i.pinimg.com/originals/57/e3/53/57e353468c03daab4846f3c3418f436f.gif">
 Im John Elyon, a junior frontend Web Developer 💻.
 As a Junior Frontend Developer, Im excited to contribute my talents to a dynamic and forward-thinking team, where I can learn from experienced developers and grow both personally and professionally. My drive to learn, adapt, and innovate makes me a promising addition to any development team, and I am eager to take on new challenges and contribute to the ever-changing landscape of frontend development.
 
