@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://github.com/Lawani-EJ">
+<a href="https://github.com/Lawani-EJ/Lawani-EJ/assets/104038966/48aca1e0-5d98-436f-b350-e6e97d23e099">
   <img hegiht=200 width=200 align="center" src="Lawani-EJ/assets/104038966/48aca1e0-5d98-436f-b350-e6e97d23e099">
 </a>
 
