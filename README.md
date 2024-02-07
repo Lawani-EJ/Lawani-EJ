@@ -8,10 +8,11 @@ As a Junior Frontend Developer, Im excited to contribute my talents to a dynamic
 <a href="https://github.com/Lawani-EJ/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lawani-EJ&show_icons=true&theme=synthwave"
 </a>
+<a href="https://github.com/Lawani-EJ/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lawani-EJ&layout=compact"
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lawani-EJ&layout=compact)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lawani-EJ&repo=Logical-Operations-Homepage)](https://github.com/Lawani-EJ/Logical-Operations-Homepage)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lawani-EJ&repo=Logical-Operations-Homepage)](https://github.com/Lawani-EJ/Logical-Operations-Homepage)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
