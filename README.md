@@ -9,7 +9,7 @@ As a Junior Frontend Developer, Im excited to contribute my talents to a dynamic
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lawani-EJ&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lawani-EJ&show_icons=true&theme=transparent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lawani-EJ&repo=github-readme-stats)](https://github.com/Lawani-EJ/github-readme-stats)
 
 ## SKILLS AND EXPERIENCE
 *💻HTML, CSS, JS
