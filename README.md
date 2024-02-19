@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ### Hey there 👋
-<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/2e/77/d5/2e77d55d25fac33ea8ffd3d38faf9788.gif">
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/cf/e8/a7/cfe8a779b52ae0be9480bb06758effb2.gif">
 
 John Elyon, your friendly neighborhood junior frontend Web Developer! 💻
 Picture this: a digital realm pulsating with the energy of innovation, where lines of code ignite fireworks of creativity, and websites leap off screens like never before. That's where I come in! 🚀✨
