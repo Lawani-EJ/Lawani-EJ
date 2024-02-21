@@ -12,7 +12,7 @@ My journey is fueled by a relentless passion for learning, adapting, and yes, in
 So, bring on the challenges! I'm ready to roll up my sleeves, dive headfirst into the code, and turn ideas into reality. Together, let's paint the digital world with colors of creativity and innovation! 🎨💻✨
 
 ## SKILLS AND EXPERIENCE
-*💻HTML, CSS, JS
+[![My Skills](https://skillicons.dev/icons?i=html,css,git,github,js,react,stackoverflow,vscode,windows,linkedin,codepen,cpp,bootstrap,atom,gmail,)](https://skillicons.dev)
 
 
 
