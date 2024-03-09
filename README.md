@@ -1,6 +1,6 @@
 ![MasterHead](https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376)
 # Hey, Im Elyon 👋
-I'm a junior front-end developer based in Nigeria, 🌍 and im passionate about crafting digital experiences 🔨✨💻.
+I'm a junior front-end developer based in Nigeria, 🌍 🇳🇬 and im passionate about crafting digital experiences 🔨✨💻.
 
 ## 📦 Toolbox
 **Frontend Devlopment:** `HTML` `CSS` `JS` `BootStrap` `React` </br>
