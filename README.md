@@ -18,7 +18,7 @@ I'm a junior front-end developer based in Nigeria, 🌍 🇳🇬 and im passiona
 ## ✨ Fun Facts 
 - Bleach is my favorite anime.
 - As a Kid, I wanted to be a doctor.
-- I love listening to music.
+- Also I love listening to music.
 
 ## 📫 Contact
  For a quick response, DM me on [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=new). 
