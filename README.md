@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/ddcbe3f85be4df99c200b4b62a7fcddd21ff18c5ed54aa4094aab252595527a1/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f35343830353630366534313233346461323635373735663465653836333165662f343164346133356633376335616266312d66362f733132383078313932302f633836393935646465653238343064616266666639393939353336376135386564313338323638372e67696676)
 # Hey, Im Elyon 👋
-I'm a junior front-end developer based in Nigeria, 🌍 🇳🇬 and im passionate about crafting digital experiences 🔨✨💻.
+I'm a junior front-end software developer based in Nigeria, 🌍 🇳🇬 and im passionate about crafting digital experiences 🔨✨💻.
 
 ## 📦 Toolbox
 **Frontend Devlopment:** `HTML` `CSS` `JS` `BootStrap` `React` </br>
