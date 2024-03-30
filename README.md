@@ -15,6 +15,9 @@ I'm a junior front-end software developer based in Nigeria, 🌍 🇳🇬 and im
   </a>
 </p>
 
+## Work
+-🌱 I'm currently learning everything I can (and that I like or it's useful to me)
+
 ## ✨ Fun Facts 
 - Bleach is my favorite anime.
 - As a Kid, I wanted to be a doctor.
