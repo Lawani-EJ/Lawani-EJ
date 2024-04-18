@@ -27,6 +27,6 @@ I'm a junior front-end software developer based in Nigeria, 🌍 🇳🇬 and im
 ## 📫☎📧Contact
  For a quick response, DM me on [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=new). 
 
-<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/31/c0/89/31c089634e0f43ee79966ee72235cb74.gif">
+<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/bc/89/01/bc890112a05c00c0a2ad33c833b7abcd.gif">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lawani-EJ&show_icons=true&bg_color=00000000)
