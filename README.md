@@ -3,9 +3,9 @@
 I'm a junior front-end software developer based in Nigeria, 🌍 🇳🇬 and i'm on a passionate journey building and crafting digital experiences 🔨✨💻.
 
 ## 📦🔨🛠🧱⚙Toolbox
-**Frontend Devlopment:** `HTML` `CSS` `JS` `BootStrap` `React` </br>
-**Version Control:** `Git` `GitHub` </br>
-**Backend Development:** `Currently learnig` `Javascript` `jQuery` And `AJAX` </br>
+**Frontend Devlopment:** `HTML 🌐` `CSS 🎨` `JS 💻` `BootStrap 🅱️` `React ⚛️` </br>
+**Version Control:** `Git 🐙` `GitHub 🐱‍💻` </br>
+**Backend Development:** `Currently learnig` `Javascript 💡` `jQuery 🔄` `Python🐍` And `AJAX 🌐` </br>
 **Others:** `StackOverflow` `Visual Studio` `CodePen` `Atom` 
 
 ## SKILLS AND EXPERIENCE
