@@ -3,7 +3,7 @@
 I'm a junior front-end software developer based in Nigeria, 🌍 🇳🇬 and i'm on a passionate journey building and crafting digital experiences 🔨✨💻.
 
 ## Checkout my Portfolio
-[My Website](https://lawani-ej.github.io/Portfolio/)
+You can checkout [My Website](https://lawani-ej.github.io/Portfolio/) to know more about me.
 
 ## 📦🔨🛠🧱⚙Toolbox
 **Frontend Devlopment:** `HTML 🌐` `CSS 🎨` `JS 💻` Currently learning `BootStrap 🅱️` `React ⚛️` and `Sass 💅🏾`</br>
