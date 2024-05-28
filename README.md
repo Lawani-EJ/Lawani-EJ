@@ -16,7 +16,7 @@ I'm a junior front-end software developer based in Nigeria, 🌍 🇳🇬 and i'
 </p>
 
 ##Portfolio
-[See all projects](link-to-your-portfolio-website)
+[See all projects](https://lawani-ej.github.io/Portfolio/)
 ## Work
 -🌱 I'm currently learning everything I can (and that I like or it's useful to me)
 
