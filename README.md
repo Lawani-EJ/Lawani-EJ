@@ -15,6 +15,8 @@ I'm a junior front-end software developer based in Nigeria, 🌍 🇳🇬 and i'
   </a>
 </p>
 
+##Portfolio
+[See all projects](link-to-your-portfolio-website)
 ## Work
 -🌱 I'm currently learning everything I can (and that I like or it's useful to me)
 
