@@ -6,7 +6,7 @@ I'm a junior front-end software developer based in Nigeria, 🌍 🇳🇬 and i'
 You can checkout [My Website](https://lawani-ej.github.io/Portfolio/) to know more about me.
 
 ## 📦🔨🛠🧱⚙Toolbox
-**Frontend Devlopment:** `HTML 🌐` `CSS 🎨` `JS 💻` Currently learning `BootStrap 🅱️` and `Sass 💅🏾`</br>
+**Frontend Devlopment:** `HTML 🌐` `CSS 🎨` `JS 💻` Currently learning `BootStrap 🅱️` `React ⚛️` and `Sass 💅🏾`</br>
 **Version Control:** `Git 🐙` `GitHub 🐱‍💻` </br>
 **Backend Development:** `Currently learnig` `Javascript 💡` `jQuery 🔄` `Python🐍` `React ⚛️` And `AJAX 🌐` </br>
 **Others:** `StackOverflow` `Visual Studio` `CodePen` `Atom` 
