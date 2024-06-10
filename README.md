@@ -23,7 +23,7 @@ You can checkout [My Website](https://lawani-ej.github.io/Portfolio/) to know mo
 
 ## ✨🌟 Fun Facts 
 - Bleach🔥 is my favorite anime.
-- Also read manga and comic books📚.
+- Also I read a lot of manga and comic books📚.
 - Also I love listening to music🎧🎶 and play video games🎮🕹.
 - As a Kid, I wanted to be a doctor 👨🏾‍⚕️.
 
