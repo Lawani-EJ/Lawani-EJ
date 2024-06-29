@@ -32,4 +32,4 @@ You can checkout [My Website](https://lawani-ej.github.io/Portfolio/) to know mo
 
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/bc/89/01/bc890112a05c00c0a2ad33c833b7abcd.gif">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lawani-EJ&show_icons=true&bg_color=00000000)
+![Lawani-EJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lawani-EJ&show_icons=true&bg_color=00000000)
