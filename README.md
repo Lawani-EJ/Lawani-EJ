@@ -9,7 +9,7 @@ You can checkout [My Website](https://lawani-ej.github.io/Portfolio/) to know mo
 ## 📦🔨🛠🧱⚙Toolbox
 **Frontend Devlopment:** `HTML 🌐` `CSS 🎨` `JS 💻` Currently learning `BootStrap 🅱️` `React ⚛️` and `Sass 💅🏾`</br>
 **Version Control:** `Git 🐙` `GitHub 🐱‍💻` </br>
-**Backend Development:** `Currently learnig` `Javascript 💡` `jQuery 🔄` `Python🐍` `React ⚛️` And `AJAX 🌐` </br>
+**Backend Development:** `Currently learnig` `Javascript 💡` `jQuery 🔄` `Python🐍` `🚀 Next.js ` `React ⚛️` And `AJAX 🌐` </br>
 **Others:** `StackOverflow` `Visual Studio` `CodePen` `Atom` 
 
 ## SKILLS AND EXPERIENCE
