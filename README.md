@@ -3,9 +3,6 @@
 # Hey, Im Elyon John😁🖐🏾
 I'm a software developer based in Nigeria, 🌍 🇳🇬 and i'm on a passionate Learning journey to help build and design digital experiences 🔨✨💻.
 
-## Checkout my Portfolio
-You can checkout [My Website](https://lawani-ej.github.io/Portfolio/) to know more about me.
-
 ## 📦🔨🛠🧱⚙Toolbox
 **Frontend Devlopment:** `HTML 🌐` `CSS 🎨` `JS 💻` Currently learning `BootStrap 🅱️` `React ⚛️` and `Sass 💅🏾`</br>
 **Version Control:** `Git 🐙` `GitHub 🐱‍💻` </br>
