@@ -38,12 +38,12 @@ For a quick response, DM me on [Gmail](https://mail.google.com/mail/u/0/#inbox?c
   <tr>
     <td>
       <a href="https://app.daily.dev/lawaniej">
-        <img src="https://api.daily.dev/devcards/v2/De08UvvrQEivIKl5QWbuL.png?type=wide&r=dpd" width="400" alt="Lawani Elyon John's Dev Card"/>
+        <img src="https://api.daily.dev/devcards/v2/De08UvvrQEivIKl5QWbuL.png?type=wide&r=sjl" width="400" alt="Lawani Elyon John's Dev Card"/>
       </a>
     </td>
     <td>
       <a href="https://roadmap.sh">
-        <img src="https://roadmap.sh/card/wide/65c7b032d789a518cf23e084?variant=light" width="400" alt="My Roadmap Card"/>
+        <img src="https://roadmap.sh/card/wide/65c7b032d789a518cf23e084?variant=dark" width="400" alt="My Roadmap Card"/>
       </a>
     </td>
   </tr>
