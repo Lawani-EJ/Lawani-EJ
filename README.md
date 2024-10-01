@@ -28,7 +28,7 @@ I'm a software developer based in Nigeria, 🌍 🇳🇬 and I'm on a passionate
 ## 📫☎📧 Contact
 For a quick response, DM me on [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=new).
 
-<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/bc/89/01/bc890112a05c00c0a2ad33c833b7abcd.gif">
+<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/02/c9/b5/02c9b52e5fa9c8e9886b1d5648a9d25c.gif">
 
 ![Lawani-EJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lawani-EJ&show_icons=true&bg_color=00000000)
 
