@@ -38,11 +38,11 @@ For a quick response, DM me on [Gmail](https://mail.google.com/mail/u/0/#inbox?c
   <tr>
     <td>
       <a href="https://app.daily.dev/lawaniej">
-        <img src="https://api.daily.dev/devcards/v2/De08UvvrQEivIKl5QWbuL.png?type=wide&r=hb4" width="600" alt="Lawani Elyon John's Dev Card"/>
+        <img src="https://api.daily.dev/devcards/v2/De08UvvrQEivIKl5QWbuL.png?type=wide&r=s9r" width="600" alt="Lawani Elyon John's Dev Card"/>
       </a>
     </td>
     <td>
-    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/65c7b032d789a518cf23e084?variant=dark&roadmaps=typescript%2Creact%2Cdatastructures-and-algorithms%2Cpython" alt="roadmap.sh"/></a>
+    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/65c7b032d789a518cf23e084?variant=dark&roadmaps=typescript%2Cdatastructures-and-algorithms%2Ctechnical-writer%2Cpython" alt="roadmap.sh"/></a>
     </td>
   </tr>
 </table>
