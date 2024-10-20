@@ -37,7 +37,7 @@ For a quick response, DM me on [Gmail](https://mail.google.com/mail/u/0/#inbox?c
   <tr>
     <td>
       <a href="https://app.daily.dev/lawaniej">
-        <img src="https://api.daily.dev/devcards/v2/NwmKxgAp8zPcVN2MMvF0m.png?r=rb8&type=wide" width="652" width="600" alt="Lawani Elyon John's Dev Card"/>
+        <img src="https://api.daily.dev/devcards/v2/NwmKxgAp8zPcVN2MMvF0m.png?type=wide&r=kj4" width="652"" width="600" alt="Lawani Elyon John's Dev Card"/>
       </a>
     </td>
     <td>
