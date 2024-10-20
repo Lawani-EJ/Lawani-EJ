@@ -32,13 +32,12 @@ For a quick response, DM me on [Gmail](https://mail.google.com/mail/u/0/#inbox?c
 
 ![Lawani-EJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lawani-EJ&show_icons=true&bg_color=00000000)
 
-<!--
 ## My DEV Cards 👩🏾‍💻💻📚
 <table>
   <tr>
     <td>
       <a href="https://app.daily.dev/lawaniej">
-        <img src="https://api.daily.dev/devcards/v2/De08UvvrQEivIKl5QWbuL.png?type=wide&r=915" width="600" alt="Lawani Elyon John's Dev Card"/>
+        <img src="https://api.daily.dev/devcards/v2/NwmKxgAp8zPcVN2MMvF0m.png?r=rb8&type=wide" width="652" width="600" alt="Lawani Elyon John's Dev Card"/>
       </a>
     </td>
     <td>
@@ -46,4 +45,3 @@ For a quick response, DM me on [Gmail](https://mail.google.com/mail/u/0/#inbox?c
     </td>
   </tr>
 </table>
--->
