@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e8d90e85-24d7-4140-870a-6c4d32d663c4)
+![image](https://64.media.tumblr.com/fdc3a80d56e042b223f6c92dc6d8036f/346b74b0709f187c-17/s1280x1920/c68db26671343f6162301af88a71e78d013aa51f.gifv)
 
 # Hey, I'm Elyon John 😁🖐🏾
 I'm a software developer based in Nigeria, 🌍 🇳🇬 and I'm on a passionate learning journey to help build and design digital experiences 🔨✨💻.
