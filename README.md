@@ -32,7 +32,7 @@ For a quick response, DM me on [Gmail](https://mail.google.com/mail/u/0/#inbox?c
 
 ![Lawani-EJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lawani-EJ&show_icons=true&bg_color=00000000)
 
-## My DEV Cards 👩🏾‍💻💻📚
+## DEV Cards 👩🏾‍💻💻📚
 <table>
   <tr>
     <td>
