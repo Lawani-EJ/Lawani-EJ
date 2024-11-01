@@ -6,7 +6,7 @@ I'm a software developer based in Nigeria, 🌍 🇳🇬 and I'm on a passionate
 ## 📦🔨🛠🧱⚙ Toolbox
 **Frontend Development:** `HTML 🌐` `CSS 🎨` `JS 💻` Currently learning `Bootstrap 🅱️`, `React ⚛️`, and `Sass 💅🏾`<br>
 **Version Control:** `Git 🐙`, `GitHub 🐱‍💻`<br>
-**Backend Development:** Currently learning `JavaScript 💡`, `jQuery 🔄`, `Python 🐍`, `Next.js 🚀`, `React ⚛️`, and `AJAX 🌐`<br>
+**Backend Development:** `JavaScript 💡`, `jQuery 🔄`, `Python 🐍`, `Next.js 🚀`, `React ⚛️`, and `AJAX 🌐`<br>
 **Others:** `StackOverflow`, `Visual Studio`, `CodePen`, `Atom`
 
 ## SKILLS AND EXPERIENCE
