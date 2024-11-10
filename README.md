@@ -12,7 +12,7 @@ I'm a software developer based in Nigeria, 🌍 🇳🇬 and I'm on a passionate
 ## SKILLS AND EXPERIENCE
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,git,github,js,react,stackoverflow,vscode,windows,linkedin,codepen,cpp,bootstrap,atom,gmail" />
+    <img src="https://skillicons.dev/icons?i=html,git,github,js,react,vscode,windows,codepen" />
   </a>
 </p>
 
