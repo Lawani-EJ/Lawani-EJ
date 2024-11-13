@@ -23,7 +23,6 @@ I'm a software developer based in Nigeria, 🌍 🇳🇬 and I'm on a passionate
 - **Bleach** 🔥 is my favorite anime.
 - I read a lot of manga and comic books 📚.
 - I love listening to music 🎧🎶 and playing video games 🎮🕹.
-- As a kid, I wanted to be a doctor 👨🏾‍⚕️.
 
 ## 📫☎📧 Contact
 For a quick response, DM me on [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=new).
