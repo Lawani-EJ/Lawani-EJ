@@ -1,6 +1,6 @@
-![image](https://64.media.tumblr.com/fdc3a80d56e042b223f6c92dc6d8036f/346b74b0709f187c-17/s1280x1920/c68db26671343f6162301af88a71e78d013aa51f.gifv)
+![image](https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279)
 
-# Hey, I'm Elyon John 😁🖐🏾
+# Hey, I'm Elyon John 
 I'm a software developer based in Nigeria, 🌍 🇳🇬 and I'm on a passionate learning journey to help build and design digital experiences 🔨✨💻.
 
 ## 📦🔨🛠🧱⚙ Toolbox
@@ -27,11 +27,11 @@ I'm a software developer based in Nigeria, 🌍 🇳🇬 and I'm on a passionate
 ## 📫☎📧 Contact
 For a quick response, DM me on [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=new).
 
-<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/02/c9/b5/02c9b52e5fa9c8e9886b1d5648a9d25c.gif">
+<img align="right" alt="coding" width="350" src="https://giffiles.alphacoders.com/154/154647.gif">
 
 ![Lawani-EJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lawani-EJ&show_icons=true&bg_color=00000000)
 
-## DEV Cards 👩🏾‍💻💻📚
+## DEV Cards 👩🏾‍💻💻
 <table>
   <tr>
     <td>
