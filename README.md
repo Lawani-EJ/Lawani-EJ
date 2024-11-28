@@ -18,6 +18,8 @@ I'm a software developer based in Nigeria, 🌍 🇳🇬 and I'm on a passionate
 
 ## Work
 🌱 I'm currently learning everything I can (and that I like or find useful).
+</br>
+Chekout my [DEV](https://dev.to/lawaniej) posts 
 
 ## ✨🌟 Fun Facts
 - **Bleach** 🔥 is my favorite anime.
