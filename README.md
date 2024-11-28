@@ -24,7 +24,7 @@ Chekout my [DEV](https://dev.to/lawaniej) posts
 ## ✨🌟 Fun Facts
 - **Bleach** 🔥 is my favorite anime.
 - I read a lot of manga and comic books 📚.
-- I love listening to music 🎧🎶 and playing video games 🎮🕹.
+- I love listening to music 🎧🎶 and play video games 🎮🕹.
 
 ## 📫☎📧 Contact
 For a quick response, DM me on [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=new).
