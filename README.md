@@ -1,6 +1,6 @@
 ![image](https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279)
 
-# Hey, I'm Elyon John 
+# Hey ✋🏿, I'm John 
 I'm a software developer based in Nigeria, 🌍 🇳🇬 and I'm on a passionate learning journey to help build and design digital experiences 🔨✨💻.
 
 ## 📦🔨🛠🧱⚙ Toolbox
