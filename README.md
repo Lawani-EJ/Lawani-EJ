@@ -1,7 +1,8 @@
-![image](https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279)
+
+![image](https://i.pinimg.com/originals/d3/62/e2/d362e266417128a343ed074033586f9e.gif)
 
 # Hey ✋🏿, I'm John 
-I'm a software developer based in Nigeria, 🌍 🇳🇬 and I'm on a passionate learning journey to help build and design digital experiences 🔨✨💻.
+I'm a software developer based in Nigeria, on a passionate learning journey to build and design web projects ✨💻.
 
 ## 📦🔨🛠🧱⚙ Toolbox
 **Frontend Development:** `HTML 🌐` `CSS 🎨` `JS 💻` Currently learning `Bootstrap 🅱️`, `React ⚛️`, and `Sass 💅🏾`<br>
@@ -21,11 +22,15 @@ I'm a software developer based in Nigeria, 🌍 🇳🇬 and I'm on a passionate
 </br>
 Chekout my [DEV](https://dev.to/lawaniej) posts 
 
-## ✨🌟 Fun Facts
+## 💙 Here are some Fun Facts about me 😁 and my Hobbies.
 - **Bleach** 🔥 is my favorite anime.
 - I read a lot of manga and comic books 📚.
-- I love listening to music 🎧🎶 and play video games 🎮🕹.
+- I love listening to music 🎧🎶 and playing video games 🎮🕹.
+- I love Coding
+- I enjoy writing tech-blogs
+- I love creating cool projects.
 
+  
 ## 📫☎📧 Contact
 For a quick response, DM me on [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=new).
 
@@ -50,3 +55,5 @@ For a quick response, DM me on [Gmail](https://mail.google.com/mail/u/0/#inbox?c
 ## 🎧 Also you can checkout my Spotify Playlist made by yours truly 👍🏿
 [![My Coding Vibes](https://img.shields.io/badge/Spotify-Work%20Focus-green?logo=spotify)](https://open.spotify.com/playlist/3OzFoB3LvPSnTpKOuGV7hA?si=a05c4915a7ce45d0)
 
+
+![image](https://github.com/user-attachments/assets/af79f404-d5d9-449a-a68c-77fcc3431982)
