@@ -24,9 +24,10 @@ Chekout my [DEV](https://dev.to/lawaniej) posts
 
 ## 💙 Here are some Fun Facts about me 😁 and my Hobbies.
 - **Bleach** 🔥 is my favorite anime.
+- I cook 🧑🏿‍🍳
 - I read a lot of manga and comic books 📚.
 - I love listening to music 🎧🎶 and playing video games 🎮🕹.
-- I love Coding
+- I love writing lines of Code
 - I enjoy writing tech-blogs
 - I love creating cool projects.
 
