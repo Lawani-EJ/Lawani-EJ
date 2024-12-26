@@ -1,4 +1,4 @@
-![Header Image](https://i.pinimg.com/originals/a9/e3/e9/a9e3e902562877add6cd109ac0c72765.gif)
+<img src="https://i.pinimg.com/originals/a9/e3/e9/a9e3e902562877add6cd109ac0c72765.gif" alt="Header Image" width="100%" />
 
 # Hey ✋🏿, I'm John 
 I'm a software developer based in Nigeria, on a passionate learning journey to build and design web projects ✨💻.
