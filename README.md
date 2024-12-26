@@ -39,7 +39,7 @@ Chekout my [DEV](https://dev.to/lawaniej) posts.
 ## 📫☎📧 Contact
 For a quick response, DM me on [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=new).
 
-<img align="right" alt="coding" width="450" src="https://i.pinimg.com/originals/a3/ef/85/a3ef85411a6084b9d1cf26b7c5293b5e.gif">
+<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/a3/ef/85/a3ef85411a6084b9d1cf26b7c5293b5e.gif">
 
 ![Lawani-EJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lawani-EJ&show_icons=true&bg_color=00000000)
 
