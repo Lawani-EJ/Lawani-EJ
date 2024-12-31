@@ -11,7 +11,7 @@ Wishing you all a joyous holiday season filled with love, peace, and lots of cod
 ---
 
 ## 📦🔨🛠🧱⚙ Toolbox
-**Frontend Development:** `HTML 🌐` `CSS 🎨` `JS 💻` Currently learning `Bootstrap 🅱️`, `React ⚛️`, and `Sass 💅🏾`<br>
+**Frontend Development:**  `JS 💻` `Bootstrap 🅱️`, `React ⚛️`, `Tailwind 💅🏾`<br>
 **Version Control:** `Git 🐙`, `GitHub 🐱‍💻`<br>
 **Backend Development:** `JavaScript 💡`, `jQuery 🔄`, `Python 🐍`, `Next.js 🚀`, `React ⚛️`, and `AJAX 🌐`<br>
 
