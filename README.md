@@ -63,5 +63,6 @@ For a quick response, DM me on [Gmail](https://mail.google.com/mail/u/0/#inbox?c
 [![My Coding Vibes](https://img.shields.io/badge/Spotify-Work%20Focus-green?logo=spotify)](https://open.spotify.com/playlist/3OzFoB3LvPSnTpKOuGV7hA?si=a05c4915a7ce45d0)
 
 
-![image](https://github.com/user-attachments/assets/b0d0667b-c13b-4a34-bf95-a3e6b74aa555)
+![image](https://github.com/user-attachments/assets/452e3dad-a41e-47fd-9e2f-707ebaeb6539)
+
 
