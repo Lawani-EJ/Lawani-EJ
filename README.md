@@ -1,19 +1,9 @@
 <img src="https://i.pinimg.com/originals/a9/e3/e9/a9e3e902562877add6cd109ac0c72765.gif" alt="Header Image" width="100%" />
 
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FLawani-EJe503a.png?alt=media)
+
 # Hey ✋🏿, I'm John 
 I'm a software developer based in Nigeria, on a passionate learning journey to build and design web projects ✨💻.
-
----
-
-### 🎄🌟 **Merry Christmas and a Happy New Year!** 🌟🎄  
-Wishing you all a joyous holiday season filled with love, peace, and lots of code! Let's make the coming year even more amazing together. Cheers to building, learning, and growing! 🎉✨  
-
----
-
-## 📦🔨🛠🧱⚙ Toolbox
-**Frontend Development:**  `JS 💻` `Bootstrap 🅱️`, `React ⚛️`, `Tailwind 💅🏾`<br>
-**Version Control:** `Git 🐙`, `GitHub 🐱‍💻`<br>
-**Backend Development:** `JavaScript 💡`, `jQuery 🔄`, `Python 🐍`, `Next.js 🚀`, `React ⚛️`, and `AJAX 🌐`<br>
 
 ## SKILLS AND EXPERIENCE
 <p align="center">
@@ -63,6 +53,6 @@ For a quick response, DM me on [Gmail](https://mail.google.com/mail/u/0/#inbox?c
 [![My Coding Vibes](https://img.shields.io/badge/Spotify-Work%20Focus-green?logo=spotify)](https://open.spotify.com/playlist/3OzFoB3LvPSnTpKOuGV7hA?si=a05c4915a7ce45d0)
 
 
-![image](https://github.com/user-attachments/assets/452e3dad-a41e-47fd-9e2f-707ebaeb6539)
+<!--![image](https://github.com/user-attachments/assets/452e3dad-a41e-47fd-9e2f-707ebaeb6539)-->
 
 
