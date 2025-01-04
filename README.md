@@ -1,9 +1,12 @@
-<img src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" alt="Header Image" width="100%" />
-
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FLawani-EJe503a.png?alt=media)
+<img src="https://camo.githubusercontent.com/931c3330dd9496f5603824d9cdc3a9491571c6da661cc8a26cc3e98973bd5d3b/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e6769663f763d313033343631373635323137383935383335303531363830373032323739" alt="Header Image" width="100%" />
 
 # Hey ✋🏿, I'm John 
 I'm a software developer based in Nigeria, on a passionate learning journey to build and design web projects ✨💻.
+
+## 📦🔨🛠🧱⚙ Toolbox
+**Frontend Development:** `JS 💻` Currently learning `Next.JS ⚛️`<br>
+**Version Control:** `Git 🐙`, `GitHub 🐱‍💻`<br>
+**Backend Development:** `JavaScript 💡`, `jQuery 🔄`, `Python 🐍`, `Next.js 🚀`, `React ⚛️`, and `AJAX 🌐`<br>
 
 ## SKILLS AND EXPERIENCE
 <p align="center">
@@ -53,6 +56,4 @@ For a quick response, DM me on [Gmail](https://mail.google.com/mail/u/0/#inbox?c
 [![My Coding Vibes](https://img.shields.io/badge/Spotify-Work%20Focus-green?logo=spotify)](https://open.spotify.com/playlist/3OzFoB3LvPSnTpKOuGV7hA?si=a05c4915a7ce45d0)
 
 
-<!--![image](https://github.com/user-attachments/assets/452e3dad-a41e-47fd-9e2f-707ebaeb6539)-->
-
-
+![image](https://github.com/user-attachments/assets/b0d0667b-c13b-4a34-bf95-a3e6b74aa555)
