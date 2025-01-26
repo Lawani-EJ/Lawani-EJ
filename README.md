@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/931c3330dd9496f5603824d9cdc3a9491571c6da661cc8a26cc3e98973bd5d3b/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e6769663f763d313033343631373635323137383935383335303531363830373032323739" alt="Header Image" width="100%" />
 
-# Hey ✋🏿, I'm John 
+# Hi ✋🏿,Nice to meet you I'm John 
 I'm a software developer based in Nigeria, on a passionate learning journey to build and design web projects ✨💻.
 
 ## 📦🔨🛠🧱⚙ Toolbox
