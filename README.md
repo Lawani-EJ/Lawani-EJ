@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/931c3330dd9496f5603824d9cdc3a9491571c6da661cc8a26cc3e98973bd5d3b/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e6769663f763d313033343631373635323137383935383335303531363830373032323739" alt="Header Image" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Header Image" width="100%" />
 
 # Hi ✋🏿,Nice to meet you I'm John 
 I'm a software developer based in Nigeria, on a passionate learning journey to build and design web projects ✨💻.
@@ -29,10 +29,11 @@ Chekout my [DEV](https://dev.to/lawaniej) posts.
 - I enjoy writing tech-blogs.
 - I love creating cool projects.
 
+
 ## 📫☎📧 Contact
 For a quick response, DM me on [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=new).
 
-<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/a3/ef/85/a3ef85411a6084b9d1cf26b7c5293b5e.gif">
+<img align="right" alt="coding" heihgt="10" width="250" src="https://i.redd.it/sohqc9f06cb71.gif">
 
 ![Lawani-EJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lawani-EJ&show_icons=true&bg_color=00000000)
 
