@@ -11,7 +11,7 @@ I'm a software developer based in Nigeria, on a passionate learning journey to b
 ## SKILLS AND EXPERIENCE
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,git,github,js,react,nextjs,py,vite,figma,tailwind,threejs" />
+    <img src="https://skillicons.dev/icons?i=html,git,github,js,react,nextjs,py,vite,figma,tailwind,threejs,php" />
   </a>
 </p>
 
