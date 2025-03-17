@@ -7,6 +7,7 @@ I'm a software developer based in Nigeria, on a passionate learning journey to b
 **Frontend Development:** `JS 💻` Currently learning `Next.JS ⚛️`<br>
 **Version Control:** `Git 🐙`, `GitHub 🐱‍💻`<br>
 **Backend Development:** `JavaScript 💡`, `jQuery 🔄`, `Python 🐍`, `Next.js 🚀`, `React ⚛️`, and `AJAX 🌐`<br>
+**⚙️ I use daily:** `.php`, `.js`, `.TypeScript`
 
 ## SKILLS AND EXPERIENCE
 <p align="center">
@@ -21,6 +22,7 @@ I'm a software developer based in Nigeria, on a passionate learning journey to b
 Chekout my [DEV](https://dev.to/lawaniej) posts.
 
 ## 💙 Here are some Fun Facts about me 😁 and my Hobbies.
+- 🏢 I'm currently working at Finishing my Finals
 - **Bleach** 🔥 is my favorite anime.
 - I cook 🧑🏿‍🍳
 - I read a lot of manga and comic books 📚.
