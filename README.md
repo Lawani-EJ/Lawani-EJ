@@ -4,7 +4,7 @@
 I'm a software developer based in Nigeria, on a passionate learning journey to build and design web projects ✨💻.
 
 ## 📦🔨🛠🧱⚙ Toolbox
-**Frontend Development:** `JS 💻` Currently learning `Next.JS ⚛️`<br>
+**Frontend Development:** `JS 💻` Currently learning `Next.JS ⚛️` and `PHP`<br>
 **Version Control:** `Git 🐙`, `GitHub 🐱‍💻`<br>
 **Backend Development:** `JavaScript 💡`, `jQuery 🔄`, `Python 🐍`, `Next.js 🚀`, `React ⚛️`, and `AJAX 🌐`<br>
 **⚙️ I use daily:** `.php`, `.js`, `.TypeScript`
