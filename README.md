@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Header Image" width="100%" />
+<img src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif" alt="Header Image" width="100%" />
 
 # Hi ✋🏿,Nice to meet you I'm John 
 I'm a software developer based in Nigeria, on a passionate learning journey to build and design web projects ✨💻.
