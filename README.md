@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif" alt="Header Image" width="100%" />
 
 # Hi ✋🏿,Nice to meet you I'm John 
-I'm a software developer based in Nigeria, on a passionate learning journey to build and design web projects ✨💻.
+I'm a Fullstack software developer based in Nigeria, on a passionate learning journey to build and design web projects ✨💻.
 
 ## 📦🔨🛠🧱⚙ Toolbox
 **Frontend Development:** `JS 💻` Currently learning `Next.JS ⚛️` and `PHP`<br>
