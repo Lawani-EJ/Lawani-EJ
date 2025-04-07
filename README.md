@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif" alt="Header Image" width="100%" />
+<img src="https://camo.githubusercontent.com/4d03e59361ba4f72a43f34c9ad88f481f982a53e0c8ada268725bf1db991ab02/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f64332f36322f65322f64333632653236363431373132386133343365643037343033333538366639652e676966" alt="Header Image" width="100%" />
 
 # Hi ✋🏿,Nice to meet you I'm John 
 I'm a Fullstack software developer based in Nigeria, on a passionate learning journey to build and design web projects ✨💻.
