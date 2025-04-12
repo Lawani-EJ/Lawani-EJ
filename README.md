@@ -12,7 +12,7 @@ I'm a Fullstack software developer based in Nigeria, on a passionate learning jo
 ## SKILLS AND EXPERIENCE
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,git,github,js,react,nextjs,py,vite,figma,tailwind,ts,php" />
+    <img src="https://skillicons.dev/icons?i=html,git,github,js,react,nextjs,py,vite,tailwind,ts,php" />
   </a>
 </p>
 
