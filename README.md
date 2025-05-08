@@ -1,7 +1,7 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/58a87a182606383.6530875274ecf.gif" alt="Header Image" width="100%" />
 
 # Hi ✋🏿,Nice to meet you I'm John 
-I'm a Fullstack software developer based in Nigeria, on a passionate learning journey to build and design web projects ✨💻.
+I'm a Fullstack software developer based in Nigeria, Who loves to build and design web projects ✨💻.
 
 ## 📦🔨🛠🧱⚙ Toolbox
 **Frontend Development:** `JS 💻` Currently learning `Next.JS ⚛️` and `PHP`<br>
