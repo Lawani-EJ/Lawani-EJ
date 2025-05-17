@@ -25,6 +25,7 @@ Chekout my [DEV](https://dev.to/lawaniej) posts.
 - 🏢 I'm currently working at Finishing my Finals
 - **Bleach** 🔥 is my favorite anime.
 - I cook 🧑🏿‍🍳
+- I love going to the gym
 - I read a lot of manga and comic books 📚.
 - I love listening to music 🎧🎶 and playing video games 🎮🕹.
 - I love writing lines of Code.
