@@ -56,5 +56,6 @@ For a quick response, DM me on [Gmail](https://mail.google.com/mail/u/0/#inbox?c
   </tr>
 </table>
 
+
 ## 🎧 Also, you can checkout my Spotify Playlist made by yours truly 👍🏿
 [![My Coding Vibes](https://img.shields.io/badge/Spotify-Work%20Focus-green?logo=spotify)](https://open.spotify.com/playlist/3OzFoB3LvPSnTpKOuGV7hA?si=a05c4915a7ce45d0)
