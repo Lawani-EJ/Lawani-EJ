@@ -6,7 +6,7 @@ I'm a Fullstack software developer based in Nigeria, Who loves to build and desi
 ## 📦🔨🛠🧱⚙ Toolbox
 **Frontend Development:** `JS 💻` Currently learning `Next.JS ⚛️` and `PHP`<br>
 **Version Control:** `Git 🐙`, `GitHub 🐱‍💻`<br>
-**Backend Development:** `JavaScript 💡`, `Python 🐍`, `Next.js 🚀`, `React ⚛️`, and `AJAX 🌐`<br>
+**Backend Development:** `JavaScript 💡`, `Python 🐍`, `Next.js 🚀`, `React ⚛️`<br>
 **⚙️ I use daily:** `.php`, `.js`, `.TypeScript`, `Next.js 🚀`.
 
 ## SKILLS AND EXPERIENCE
