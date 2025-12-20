@@ -1,6 +1,6 @@
 <!--<img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" alt="Header Image" width="100%" />-->
 
-# Hi ✋🏿,Nice to meet you I'm John 
+# Hi ✋🏿,Nice to meet you I'm John  
 I'm a Fullstack software developer based in Nigeria, Who loves to build and design web projects ✨💻.
 
 ## 📦🔨🛠🧱⚙ Toolbox
