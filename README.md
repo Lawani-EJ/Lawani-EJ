@@ -3,11 +3,11 @@
 # Hi ✋🏿,Nice to meet you I'm John  
 I'm a Fullstack software developer based in Nigeria, Who loves to build and design web projects ✨💻.
 
-## 📦🔨🛠🧱⚙ Toolbox
-**Frontend Development:** `JS 💻` Currently learning `Next.JS ⚛️` and `PHP`<br>
-**Version Control:** `Git 🐙`, `GitHub 🐱‍💻`<br>
-**Backend Development:** `JavaScript 💡`, `Python 🐍`, `Next.js 🚀`, `React ⚛️`<br>
-**⚙️ I use daily:** `.php`, `.js`, `.TypeScript`, `Next.js 🚀`.
+## Toolbox
+**Frontend Development:** `JS` Currently learning `Next.JS` and `PHP`<br>
+**Version Control:** `Git`, `GitHub`<br>
+**Backend Development:** `JavaScript`, `Python`, `Next.js`, `React`<br>
+**⚙️ I use daily:** `.php`, `.js`, `.TypeScript`, `Next.js`.
 
 ## SKILLS AND EXPERIENCE
 <p align="center">
