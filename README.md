@@ -41,11 +41,15 @@ I design and build modern, performant, and scalable web applications with a stro
 - 🎮 Casual gamer
 - 🧑🏿‍🍳 **Bleach** is my favorite anime 🔥
 
+
+<!--
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lawani-EJ&show_icons=true&theme=transparent" />
 </p>
+-->
 
+<!--
 ## 🧑🏾‍💻 Developer Cards
 <table>
   <tr>
@@ -61,7 +65,7 @@ I design and build modern, performant, and scalable web applications with a stro
     </td>
   </tr>
 </table>
-
+-->
 
 ## 🎧 Coding Playlist
 I code better with music — maybe you will too 😉
