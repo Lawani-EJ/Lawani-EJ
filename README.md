@@ -72,9 +72,4 @@ I code better with music — maybe you will too 😉
 
 [![Spotify](https://img.shields.io/badge/Spotify-Coding%20Vibes-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3OzFoB3LvPSnTpKOuGV7hA)
 
-
-## 📫 Let’s Connect
-- 📧 Email: [Reach me on Gmail](https://mail.google.com/mail/u/0/#inbox?compose=new)
-- 📝 Blog: [DEV.to](https://dev.to/lawaniej)
-
 ⭐ **If you like my work, consider starring a repo — it really helps and motivates me to build more!**
