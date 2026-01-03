@@ -4,7 +4,7 @@
 # 👋🏿 Hi, I’m John (Lawani Elyon John)
 
 **Full-Stack Software Developer** based in **Nigeria 🇳🇬**  
-I design and build modern, performant, and scalable web applications with a strong focus on **UI/UX, animations, and clean architecture** ✨💻
+I design and build modern, and scalable web applications with focus on **UI/UX, and clean architecture** ✨💻
 
 ## 🚀 About Me
 - 🌱 Constantly learning and refining my craft
